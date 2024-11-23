@@ -1,4 +1,4 @@
-# NYC Airbnb EDA & Feature Engineering
+# NYC Airbnb (EDA & Feature Engineering)
 
 This repository contains a comprehensive analysis and feature engineering process conducted on the Airbnb NYC Dataset. The project aims to derive actionable insights and optimize strategies for hosts by exploring pricing, neighborhood popularity, room type demand, and availability trends.
 
